@@ -28,8 +28,11 @@ The following **additional** features are implemented:
 
 Here is a walkthrough of implemented user stories:
 
-PASTE_YOUR_VIDEO_OR_LOOM_LINK_HERE
+### Unit 3
+[Unit 3 Walkthrough Video](https://tinyurl.com/22fuxj7t)
 
+### Unit 2
+[Unit 2 Walkthrough Video](https://tinyurl.com/y943sz64)
 ## Notes
 
 - Simulator does not support physical camera hardware, so image upload was demonstrated via the simulator photo library fallback in accordance with the assignment guidelines.
